@@ -5,6 +5,8 @@ from Crypto.Hash import SHA256
 from Crypto.Cipher import AES
 import base64
 
+# CREATED BY LOCKEDBYTE (TW: @LOCKEDBYTE ; TG: @LOCKEDBYTE)
+
 print '''
 \033[1;95m
   ____ _               _    __                     _             
