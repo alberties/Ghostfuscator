@@ -1,5 +1,5 @@
 # Ghostfuscator
-Obfuscate python making them password-protected using AES Encryption
+Obfuscate python scripts making them password-protected using AES Encryption
 
 # Usage
 
